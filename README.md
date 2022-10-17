@@ -1,3 +1,35 @@
+11:20 - 
+reference: https://github.com/iamshaunjp/next-netlify-identity/tree/lesson-1-starter/pages
+
+
+npx create-next-app  -e https://github.com/iamshaunjp/next-netlify-identity/tree/lesson-1-starter
+
+npx create-next-app next_tutu_gamming_vibes
+
+npm run dev
+npm install netlify-identity-widget # install package
+# deployment with github
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
