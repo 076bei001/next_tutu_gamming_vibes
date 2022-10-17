@@ -11,6 +11,13 @@ npm install netlify-identity-widget # install package
 # deployment with github
 
 
+# protecting pages <access to only users logged in>
+export async function getServerSideProps(){
+    // check auth status of user
+    // fetch & return dataif they are logged in
+    // Return a redirect if they are loggeed out
+// but currently you cant access user id by getServerSideProp
+alternative: betlify serverless Functions
 
 
 
