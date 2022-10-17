@@ -21,13 +21,13 @@ alternative: betlify serverless Functions
 
 npm install npm-cli // to run functions locally
 // comment line {authReady && in Navbar.js
-
 netlify dev // to run functions locally
 
 
 
-
-
+for private community
+# identity -> registration -> invite only <allow registration of invited users only>
+# identity -> registratin -> external  providers -> for google, facebook, twitter, github, gitlab, bitbucket
 
 
 
