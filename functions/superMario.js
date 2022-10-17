@@ -1,4 +1,6 @@
+// runs in netlify server side by : 'netlify.toml' file
 exports.handler = async () => {
+    
     console.log('function ran')
     const data = {name: 'mario', age: 35, job: 'plumber'}   
     

@@ -19,6 +19,10 @@ export async function getServerSideProps(){
 // but currently you cant access user id by getServerSideProp
 alternative: betlify serverless Functions
 
+npm install npm-cli // to run functions locally
+// comment line {authReady && in Navbar.js
+
+netlify dev // to run functions locally
 
 
 
